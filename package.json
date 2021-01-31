@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/harakeke-2021/clinton-CP02/issues"
   },
-  "homepage": "https://github.com/harakeke-2021/clinton-CP02#readme"
+  "homepage": "https://github.com/harakeke-2021/clinton-CP02#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
